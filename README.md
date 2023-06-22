@@ -1,9 +1,9 @@
 # Calculate-Integration
 
 > **Note**
-> Should have installed python
+> Should have installed [python](https://www.python.org/downloads/)
  
-##Steps to Use:
+**Steps to Use:**
 
 1. open terminal/shell where you place this folder.
 2. ```
