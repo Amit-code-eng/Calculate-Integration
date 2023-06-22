@@ -13,7 +13,7 @@
    type/copy-past this in terminal hit enter.
    
 4. ![terminal](terminal.png)
-   
+
    - enter the function in python supported  syntex.
    - enter lower limit
    - enter upper limit
