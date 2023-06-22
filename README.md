@@ -1,7 +1,7 @@
 # Calculate-Integration
 
-> **Note**
-> - Should have installed [python](https://www.python.org/downloads/)
+> **Note** <br/>
+>Should have installed [python](https://www.python.org/downloads/)
  
 **Steps to Use:**
 
