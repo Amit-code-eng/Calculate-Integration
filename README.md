@@ -9,8 +9,10 @@
 2. ```
    python calculating_single_variable_integration_by_Trapezoidal_rule.py
    ```
+   
    type/copy-past this in terminal hit enter.
-3. ![terminal](terminal.png)
+   
+4. ![terminal](terminal.png)
    
    - enter the function in python supported  syntex.
    - enter lower limit
